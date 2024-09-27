@@ -129,7 +129,7 @@ h2{
     font-size: 14px;
     border: 2px solid;
     margin-top: 10px;
-    margin-left: 10vw;
+    /* margin-left: 10vw; */
     padding: 5px 25px;
     border-radius: 8px;
 }
